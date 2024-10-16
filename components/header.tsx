@@ -2,7 +2,7 @@ import Link from "next/link";
 import React from "react";
 import "./style.header.css";
 
-export default function(){
+export default function header(){
     return (
         <nav>
             <div >
